@@ -13,8 +13,7 @@ body {
 }
 
 #mainHeading {
-    color: rgb(230, 121, 121);
-    background-color: rgb(73, 80, 74);
+    color: red;
     font-size: xx-large;
     font-style: italic;
     text-align: center;
@@ -26,7 +25,7 @@ body {
 }
 
 .funParagraph {
-    background-color: #768b78;
+    color: green;
     font-style: italic;
     text-align: center;
 }
